@@ -1,0 +1,2 @@
+# goubun
+Priv Escala Sudo
